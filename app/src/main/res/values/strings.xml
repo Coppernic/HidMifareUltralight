@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HID Mifare Ultralight</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_tag_read">No tag read</string>
+    <string name="reader">Reader</string>
+    <string name="power_state">Power state</string>
+    <string name="state">State</string>
+    <string name="tag">Tag</string>
+</resources>
