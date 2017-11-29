@@ -15,7 +15,7 @@ The process of reading a MIFARE ULTRALIGHT tag is straight forward:
 3. Select the tag (command 'S')
 4. Read blocks (command 'rbxx')
 
-Note: HID HF MultiISO reader reads 4 blocks by 4 blocks whereas MIFARE ULTRALIGHT shoudl read one block at a time.
+Note: HID HF MultiISO reader reads 4 blocks by 4 blocks whereas MIFARE ULTRALIGHT should read one block at a time.
 
 Parse data read
 ---------------
