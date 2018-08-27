@@ -3,7 +3,7 @@ This project demonstrates how to access to ELIS ID in a NFC HF tag from ELIS.
 
 Introduction
 ------------
-ELIS company use NFC tags for their applications. This specific tag is a MIFARE ULTRALIGHT tag containing data stored as NFC describes.
+ELIS company uses NFC tags for its applications. This specific tag is a MIFARE ULTRALIGHT tag containing data stored as NFC describes.
 
 Read MIFARE ULTRALIGHT tag
 --------------------------
